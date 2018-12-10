@@ -1,5 +1,6 @@
 
+This is a WinForm program, it was designed to contol the JAI camera.
 
-Write a commit message that describes your changes
-Write a commit message that describes your changes
-Write a commit message that describes your changes
+the Jai_FactoryDotNET.dll, log4net.dll, log4net is needed.
+
+this project used OpenCV to develop vision algorithm by C++ DLL, and use C# to do GUI, it has a excellent result.
