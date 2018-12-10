@@ -1,0 +1,13 @@
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\bin\x86\Debug\JAI_Control.exe.config
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\bin\x86\Debug\JAI_Control.exe
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\bin\x86\Debug\JAI_Control.pdb
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\bin\x86\Debug\Jai_FactoryDotNET.dll
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\bin\x86\Debug\log4net.dll
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\bin\x86\Debug\Jai_FactoryDotNET.pdb
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\bin\x86\Debug\Jai_FactoryDotNET.xml
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\bin\x86\Debug\log4net.xml
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\obj\x86\Debug\JAI_Control.Form1.resources
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\obj\x86\Debug\JAI_Control.Properties.Resources.resources
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\obj\x86\Debug\JAI_Control.csproj.GenerateResource.Cache
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\obj\x86\Debug\JAI_Control.exe
+F:\Code\JAI相机C#软件开发\JAI_Control\JAI_Control\obj\x86\Debug\JAI_Control.pdb
